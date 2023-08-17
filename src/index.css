@@ -1,0 +1,27 @@
+.d-alert{
+    background-color: rgb(242, 183, 183);
+border-color: #ec3737;
+color: #f00909;
+padding: 15px;
+margin-bottom: 22px;
+border: 1px solid ;
+border-radius: 5px;
+box-sizing: border-box;
+font-family: Nunito Sans,Helvetica,Arial,sans-serif;
+font-size: 16px;
+line-height: 1.42857;
+}
+
+input.err {
+    border: 2px solid  #ec3737;
+}
+
+#add-content {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+

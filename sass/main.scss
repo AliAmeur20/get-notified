@@ -1,0 +1,23 @@
+$primary: #253D5B;
+$secondary: #ffc107;
+$white:    #fff;
+$gray-100: #f8f9fa;
+
+
+
+
+@import "../node_modules/bootstrap/scss/functions"; 
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-theme-colors:( 
+    "primary2": #47525e,
+    "secondary2": #fed96b, 
+    "light2": #fff9ecfe,
+    "light-subtle": mix($gray-100, $white)
+
+    
+); 
+
+$theme-colors : map-merge($custom-theme-colors,$theme-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
