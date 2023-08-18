@@ -102,7 +102,7 @@ function UserNav () {
             </div>
             <div className="px-3 pb-4 pt-1">
              <Tippy content="currently disabled">
-              <Link className="text-decoration-none text-primary2 h6 " to="/" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="currently disabled" ><img  className="mx-2" src="./assets/illustrations/help&support.svg" alt="..." width="25" lenght="25"/>Hels & support</Link>
+              <Link className="text-decoration-none text-primary2 h6 " to="/" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="currently disabled" ><img  className="mx-2" src="./assets/illustrations/help&support.svg" alt="..." width="25" lenght="25"/>Help & support</Link>
              </Tippy>
             </div>
           <div className="px-3 pb-4 pt-1">
