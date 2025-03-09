@@ -19,16 +19,21 @@ GetNotified is a robust web application built on the **MERN stack** (MongoDB, Ex
 Here are some screenshots of the application:
 
 ### Landing Page
-![Landing Page](./screenshots/landing-page.png)  
+<img width="1728" alt="Screenshot 2024-12-15 at 12 39 08 PM" src="https://github.com/user-attachments/assets/96cde204-fab7-4241-98c2-598f12ec42f9" />
+
 
 ### Login Page
-![Login Page](./screenshots/login-page.png)  
+<img width="1728" alt="Screenshot 2024-12-15 at 12 39 26 PM" src="https://github.com/user-attachments/assets/cde33c53-c1a4-4339-9800-13832de39647" />
+
 
 ### Signup Page
-![Signup Page](./screenshots/signup-page.png)  
+<img width="1728" alt="Screenshot 2024-12-15 at 12 39 54 PM" src="https://github.com/user-attachments/assets/a9bc85ff-4f5a-4222-b371-a86cf87a09dc" />
+<img width="1728" alt="Screenshot 2024-12-15 at 12 39 38 PM" src="https://github.com/user-attachments/assets/fb6b43a4-5b37-41cc-a6d7-ca8338df2657" />
+
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)  
+<img width="1728" alt="Screenshot 2024-12-15 at 12 40 51 PM" src="https://github.com/user-attachments/assets/486e0461-000e-40b4-90ac-bddc5af09ffe" />
+<img width="1728" alt="Screenshot 2024-12-15 at 12 41 04 PM" src="https://github.com/user-attachments/assets/eac36d18-3162-4d4d-ab78-ae6cd6a3b3d0" />
 
 ---
 
